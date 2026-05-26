@@ -22,4 +22,4 @@ This project is a PHP/MySQL web app for generating strong passwords and storing 
 
 ## Project Report
 
-<a href="Report.pdf" download>Click here</a>
+<a href="https://raw.githubusercontent.com/julqarnaeen/Secure-Password-Generator-And-Saver/main/Report.pdf" download>Click here</a>
