@@ -20,6 +20,6 @@ This project is a PHP/MySQL web app for generating strong passwords and storing 
 - `delete_password.php` - delete password entry
 - `db_connect.php` - database connection setup
 
-## Project Report
+## Report
 
 <a href="https://raw.githubusercontent.com/julqarnaeen/Secure-Password-Generator-And-Saver/main/Report.pdf" download>Click here</a>
